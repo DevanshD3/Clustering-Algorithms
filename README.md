@@ -1,3 +1,4 @@
 # Clustering-Algorithms
 
-Implemented the mmost popular clustering algorithms on a given dataset. 
+Implemented the most popular clustering algorithms on the official dataset. 
+
